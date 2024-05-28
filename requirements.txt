@@ -2,4 +2,4 @@ streamlit
 numpy
 matplotlib
 os-sys
-PIL
+pillow
